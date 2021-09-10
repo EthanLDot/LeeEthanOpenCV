@@ -1,6 +1,10 @@
 import cv2
 
-img = cv2.imread("lena.jpg", 1)
+#color
+#img = cv2.imread("lena.jpg", 1)
+
+#grayscale
+img = cv2.imread("lena.jpg", 0)
 
 print(img)
 
