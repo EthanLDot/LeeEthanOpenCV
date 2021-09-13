@@ -13,13 +13,15 @@
   <li><strong>matplotlib_test.py: </strong>displays an image in matplotlib and normally </li>
   <li><strong>messi.py:</strong> duplicates and moves a region of interest of an image and blends weighted images together</li>
   <li><strong>morph.py:</strong> displays the same image with several morphological transformations applied in matplotlib</li>
+  <li><strong>motion_detection.py</strong> displays all movement within a video with a simple box. Works best when the video's camera is in a static position.</li>
   <li><strong>mouseclick.py:</strong> displays an image and also displays the location (in x/y coords) where a mouseclick occurs</li>
   <li><strong>mouseclick2.py:</strong> forms a line segment from any number of points in an image where a mouseclick occurs</li>
   <li><strong>mouseclick3.py:</strong> displays the exact color of a pixel in a separate window when clicked on in an image</li>
   <li><strong>obj_detection_video.py:</strong> continuously displays parts of the webcam feed based on whether they meet the HSV value thresholds specified by the user with the trackbar</li>
   <li><strong>obj_tracking.py:</strong> displays parts of an image based on whether they meet the HSV value thresholds specified by the user with the trackbar</li>
-  <li><strong>pyramid.py:</strong> creates a basic image pyramid by increasing/decreasing the resolution of a single image.
-  <li><strong>pyramid2.py:</strong> creates a laplacian pyramid from a single image.
+  <li><strong>pyramid.py:</strong> creates a basic image pyramid by increasing/decreasing the resolution of a single image.</li>
+  <li><strong>pyramid2.py:</strong> creates a laplacian pyramid from a single image.</li>
+  <li><strong>shape_detection.py</strong> detects simple shapes from a provided image.</li>
   <li><strong>smoothing_blurring.py:</strong> performs several smoothing/blurring/filtering operations on a single image and displays using matplotlib</li>
   <li><strong>threshold.py:</strong> performs basic thresholding operations on the same image</li>
   <li><strong>threshold2.py:</strong> performs basic thresholding operations on the same image and displays using matplotlib</li>
