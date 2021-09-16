@@ -4,9 +4,13 @@
 <ul>
   <li><strong>adaptive_thresh.py: </strong>applies binary thresholding and compares it to several types of adaptive thresholding on the same image</li>
   <li><strong>binary.py: </strong>demonstrates bitwise and, or, not, and xor operations</li>
+  <li><strong>circle_detection.py:</strong> labels all circles in an image with a circle and a dot at the center</li>
   <li><strong>drawing_on_imgs.py: </strong>draws various geometric shapes, including text, onto an image</li>
   <li><strong>drawing_on_videos.py:</strong> displays the computer clock on webcam video </li>
   <li><strong>edge_detection.py:</strong> displays several types of edge detection on the same image in matplotlib, including canny edge detection
+  <li><strong>face_detection.py:</strong> detects human faces within an image and labels them with a box</li>
+  <li><strong>face_detection_vid.py:</strong> detects human faces in webcam video and labels them in real time with a box</li>
+  <li><strong>face_eye_detection.py:</strong> detects human faces and eyes in webcam video and labels them with a box </li>
   <li><strong>find_contour.py:</strong> finds all contours within an image</li>
   <li><strong>histograms.py:</strong> displays the intensity of all pixels in a grayscale image as a histogram using matplotlib</li>
   <li><strong>histograms_color.py:</strong> displays the intensity of all pixels in an RGB/BGR image as three combined histograms using matplotlib</li>
@@ -14,6 +18,8 @@
   <li><strong>hough_line_2.py:</strong> improved hough line detection using the HoughLinesP method </li>
   <li><strong>image_blend.py:</strong> blends the left and right sides of two different images together</li>
   <li><strong>image_view.py:</strong> displays a simple image with opencv in grayscale </li>
+  <li><strong>lane_detection.py:</strong> detects lanes within an image and displays them using matplotlib</li>
+  <li><strong>lane_detection_video.py</strong> detects lanes in real time within a video</li>
   <li><strong>matplotlib_test.py: </strong>displays an image in matplotlib and normally </li>
   <li><strong>messi.py:</strong> duplicates and moves a region of interest of an image and blends weighted images together</li>
   <li><strong>morph.py:</strong> displays the same image with several morphological transformations applied in matplotlib</li>
