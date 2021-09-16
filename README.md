@@ -8,6 +8,10 @@
   <li><strong>drawing_on_videos.py:</strong> displays the computer clock on webcam video </li>
   <li><strong>edge_detection.py:</strong> displays several types of edge detection on the same image in matplotlib, including canny edge detection
   <li><strong>find_contour.py:</strong> finds all contours within an image</li>
+  <li><strong>histograms.py:</strong> displays the intensity of all pixels in a grayscale image as a histogram using matplotlib</li>
+  <li><strong>histograms_color.py:</strong> displays the intensity of all pixels in an RGB/BGR image as three combined histograms using matplotlib</li>
+  <li><strong>hough_line.py: </strong>applies hough line transform theory using the HoughLines method (rough)</li>
+  <li><strong>hough_line_2.py:</strong> improved hough line detection using the HoughLinesP method </li>
   <li><strong>image_blend.py:</strong> blends the left and right sides of two different images together</li>
   <li><strong>image_view.py:</strong> displays a simple image with opencv in grayscale </li>
   <li><strong>matplotlib_test.py: </strong>displays an image in matplotlib and normally </li>
@@ -23,6 +27,7 @@
   <li><strong>pyramid2.py:</strong> creates a laplacian pyramid from a single image.</li>
   <li><strong>shape_detection.py</strong> detects simple shapes from a provided image.</li>
   <li><strong>smoothing_blurring.py:</strong> performs several smoothing/blurring/filtering operations on a single image and displays using matplotlib</li>
+  <li><strong>template_matching.py:</strong> attempts to detect a smaller template image inside of a larger, separate image</li>
   <li><strong>threshold.py:</strong> performs basic thresholding operations on the same image</li>
   <li><strong>threshold2.py:</strong> performs basic thresholding operations on the same image and displays using matplotlib</li>
   <li><strong>trackbar1.py:</strong> includes three trackbars that, when adjusted, results in an RGB color being displayed</li>
